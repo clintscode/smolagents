@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "smolagents",
+			"path": "../../../SMOL 1/smolagents"
+		}
+	],
+	"settings": {}
+}
